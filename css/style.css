@@ -1,0 +1,19 @@
+body,html{
+
+	margin: 0;
+	padding: 0;
+}
+#part1{
+
+	width: 100%;
+	height: 600px;
+	background-color: yellow;
+}
+
+#part2{
+
+width: 100%;
+	height: 600px;
+	background-color: yellowgreen;
+
+}
